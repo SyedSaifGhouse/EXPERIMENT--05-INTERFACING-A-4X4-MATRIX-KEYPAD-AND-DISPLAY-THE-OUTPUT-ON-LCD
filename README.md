@@ -304,3 +304,4 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
+
